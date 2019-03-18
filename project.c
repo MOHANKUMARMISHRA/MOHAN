@@ -338,7 +338,7 @@ void fruit()
         int rate=150;
         float total;
         printf("\nthe price of pineapple is 150/kg\n");
-        printf("HOW MUCH MEDICINE DO YOU WANT TO BUY:-\n");
+        printf("HOW MUCH KG DO YOU WANT TO BUY:-\n");
         scanf("%f",&want);
         total=rate*want;
         printf("you have to pay %f\n",total,"\n");
@@ -360,7 +360,7 @@ void fruit()
         int rate=25;
         float total;
         printf("\nthe price of banana is 10/piece\n");
-        printf("HOW MUCH MEDICINE DO YOU WANT TO BUY:-\n");
+        printf("HOW MUCH KG DO YOU WANT TO BUY:-\n");
         scanf("%f",&want);
         total=rate*want;
         printf("you have to pay %f\n",total,"\n");
@@ -383,7 +383,7 @@ void fruit()
             int rate=78;
         float total;
         printf("\nthe price of black currant is 78/kg\n");
-        printf("HOW MUCH MEDICINE DO YOU WANT TO BUY\n");
+        printf("HOW MUCH KG DO YOU WANT TO BUY:-\n");
         scanf("%f",&want);
         total=rate*want;
         printf("you have to pay %f\n",total,"\n");
